@@ -1,0 +1,18 @@
+{
+  "dockerfile_lines": [],
+  "graphs": {
+    "ac_flow": "./graphflows/ac_flow.py:graph",
+    "act_flow": "./graphflows/act_flow.py:graph",
+    "actdebugger_flow": "./graphflows/actdebugger_flow.py:graph",
+    "debugger_only_studio_flow": "./graphflows/debugger_only_studio_flow.py:graph",
+    "ac_debug_studio_flow": "./graphflows/ac_debug_studio_flow.py:graph"
+    
+  },
+  "env": "./.env",
+  "python_version": "3.11",
+  "dependencies": [
+    "."
+  ]
+}
+
+
