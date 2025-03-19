@@ -90,3 +90,8 @@ Available datasets:
 
 18. `vertex:gemini-2.0-flash-exp`
 19. `vertex:gemini-1.0-pro`
+
+---
+
+# Acknowledgement
+Our implementation adapts code from [LDB](https://github.com/FloridSleeves/LLMDebugger) and [Self-collaboration Code Generation via ChatGPT](https://github.com/YihongDong/Self-collaboration-Code-Generation). We thank them for their high-quality open source code!
