@@ -94,4 +94,4 @@ Available datasets:
 ---
 
 # Acknowledgement
-Our implementation adapts code from [LDB](https://github.com/FloridSleeves/LLMDebugger) and [Self-collaboration Code Generation via ChatGPT](https://github.com/YihongDong/Self-collaboration-Code-Generation). We thank them for their high-quality open source code!
+Our implementation adapts code from [LDB](https://github.com/FloridSleeves/LLMDebugger) and prompt ideas from both [LDB](https://github.com/FloridSleeves/LLMDebugger) and [Self-collaboration Code Generation via ChatGPT](https://github.com/YihongDong/Self-collaboration-Code-Generation). We thank them for their high-quality open source code!
